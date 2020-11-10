@@ -1,4 +1,4 @@
-use dobble;
+use.dobble;
 
 db.dropDatabase();
 
